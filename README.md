@@ -21,6 +21,7 @@ From **0° to 180°** (or from **0 to π** radians), users can adjust the angle 
 ## 📏 How to Run the Project
 
 This project is designed to work in **Google Colab** or **Jupyter Notebooks** environments, which support interactive widgets. You can’t use the interactive slider in traditional IDEs like **VS Code** without additional setup.
+To see the interactivity, download the notebook and run it locally or on Google Colab.
 
 ### Prerequisites
 
